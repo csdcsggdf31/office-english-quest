@@ -1,0 +1,2 @@
+# SUIT Variable 글꼴은 저장소에 함께 커밋합니다(OFL 라이선스).
+# GitHub Actions에서 빌드할 때도 필요하므로 fonts/*.woff2를 제외하지 않습니다.
